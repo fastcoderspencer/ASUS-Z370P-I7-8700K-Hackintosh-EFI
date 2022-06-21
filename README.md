@@ -1,10 +1,14 @@
 # ASUS-Z370P-I7-8700K-Hackintosh-EFI
 
-Date : 2022.6.21
+`OpenCore: 0.8.1`
+
+`Date : 2022.6.21`
+
+`MacOS 12.4`
+
+---
 
 
-OpenCore 0.8.1
-MacOS 12.4
 
 Motherboard: ASUS Prime Z370-P
 
@@ -21,3 +25,4 @@ AirDrop works fine
 Bluetooth works fine
 
 Audio works fine
+
