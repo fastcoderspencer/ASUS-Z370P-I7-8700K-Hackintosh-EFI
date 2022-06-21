@@ -14,7 +14,10 @@ GPU: Intel UHD 630 Supports
 
 WIFI & Bluetooth: BRCM20702
 
---
+---
+
 AirDrop works fine
+
 Bluetooth works fine
+
 Audio works fine
